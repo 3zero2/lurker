@@ -176,6 +176,7 @@ dist
 
 reference
 bun.lockb
+package-lock.json
 result
 
 .direnv
